@@ -25,9 +25,9 @@ This sample C# project would demonstrate how Selenium, SpecFlow(Cucumber for .Ne
 
 ###Additional Information
 Code is written as per the best architectural guidelines as follows
-1. Separation of concerns
-2. Layered architecture
-3. Configurable and Extendable
-4. Factory pattern
-5. Service Locator pattern
-6. Loosely coupled components
+- Separation of concerns
+- Layered architecture
+- Configurable and Extendable
+- Factory pattern
+- Service Locator pattern
+- Loosely coupled components
