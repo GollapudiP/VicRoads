@@ -20,7 +20,7 @@ This sample C# project would demonstrate how Selenium, SpecFlow(Cucumber for .Ne
 - Open **VICR.Solution.sln** file in Visual Studio
 - Build the solution
 - Go to menu Test > Window > Test Explorer
-- Click on **RunAll** link in the list of test cases pane
+- Click on **Run All** link in the list of test cases pane
 - After the successful run of the tests, verify output by clicking on the relevant link
 
 ###Additional Information
