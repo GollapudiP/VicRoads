@@ -1,0 +1,14 @@
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\obj\Debug\VICR.Registration.csprojResolveAssemblyReference.cache
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\VICR.Registration.dll.config
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\VICR.Registration.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\VICR.Registration.pdb
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\WebDriver.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\WebDriver.xml
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\obj\Debug\VICR.Registration.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\obj\Debug\VICR.Registration.pdb
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\nunit.framework.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\TechTalk.SpecFlow.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\nunit.framework.xml
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\WebDriver.Support.dll
+C:\Praveen\WorkArea\Hays\Normal\VICR.Solution\VICR.Registration\bin\Debug\WebDriver.Support.xml
