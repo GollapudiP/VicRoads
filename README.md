@@ -22,3 +22,12 @@ This sample C# project would demonstrate how Selenium, SpecFlow(Cucumber for .Ne
 - Go to menu Test > Window > Test Explorer
 - Click on RunAll link in the list of test cases pane
 - After the successful run of the tests, verify output by clicking on the relevant link
+
+###Additional Information
+Code is written as per the best architectural guidelines as follows
+1. Separation of concerns
+2. Layered architecture
+3. Configurable and Extendable
+4. Factory pattern
+5. Service Locator pattern
+6. Loosely coupled components
