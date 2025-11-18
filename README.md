@@ -1,6 +1,7 @@
 # Selenium - SpecFlow with NUnit Demo Project
 
 This sample C# project would demonstrate how Selenium, SpecFlow(Cucumber for .Net) can be used to automate web application testing. 
+Feature2 update
 
 ## Technologies and Tools used
 - Visual Studio Community Edition
